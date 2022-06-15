@@ -1,3 +1,2 @@
 # AI-Homeworks
-AI Problems
-This is AI homework.
+Here are my AI homeworks from 4th course from university. 
